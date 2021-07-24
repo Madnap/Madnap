@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Madnap
+- 👀 I’m interested in full stack JavaScript Development.
+- 🌱 I’m currently learning JavaScript, C#, Java and HTML.
+- 💞️ I’m looking to collaborate on nothing at the moment.
+- 📫 How to reach me: Discord @ Madnap#2610.
